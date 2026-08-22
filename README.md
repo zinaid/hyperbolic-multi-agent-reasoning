@@ -2,7 +2,7 @@
 
 Supplementary data and dataset-generation resources for the paper:
 
-**Multi-agent reasoning in hyperbolic discs**
+**Deep Multi-agent reasoning in hyperbolic discs**
 
 ## Overview
 
