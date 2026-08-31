@@ -23,6 +23,8 @@ hyperbolic-multi-agent-reasoning/
 ├── README.md
 ├── LICENSE
 │
+├── supplementary.pdf # Supplementary Material for the main paper
+│
 ├── single-agent/
 │   └── game24_search_tree.csv # Dataset for the single-agent task (A tree of states for Game of 24)
 │
